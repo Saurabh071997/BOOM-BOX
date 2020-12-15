@@ -22,9 +22,9 @@ To implement the **DOM** functionalities [React DOM](https://reactjs.org/docs/re
 
 ## <span style="font-size:1.75rem">**Screenshots**</span>
 <br>
-![](/public/images/md_image1)
-![](/public/images/md_image2)
-![](/public/images/md_image3)
+![](/src/images/md_image1)
+![](/src/images/md_image2)
+![](/src/images/md_image3)
 
 <br><br>
 Read more about **[React](https://reactjs.org/)**
