@@ -23,7 +23,7 @@ To implement the **DOM** functionalities [React DOM](https://reactjs.org/docs/re
 ## <span style="font-size:1.75rem">**Screenshots**</span>
 <br>
 
-![](./md_image1.png)
+![](/src/images/md_image1.png)
 
 <br><br>
 Read more about **[React](https://reactjs.org/)**
