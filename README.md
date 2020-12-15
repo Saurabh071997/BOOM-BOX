@@ -14,7 +14,7 @@ The project was built with the motive of understanding various functionalities o
 <br>
 Originally the application provides the users to browse from the available categories i.e by **Genres** or **Artist**. Proceeding further, the user can choose from various options available based on the **previous input**. Based on user's choice all the available music albums are suggested which users can listen on **Spotify**.
 
-To handle the state of the input flag, we used **React's Hook API** [useState](https://reactjs.org/docs/hooks-reference.html).
+To handle the state of the user inputs, we used **React's Hook API** [useState](https://reactjs.org/docs/hooks-reference.html).
 <br>
 To implement the **DOM** functionalities [React DOM](https://reactjs.org/docs/react-dom.html) is used. 
 
