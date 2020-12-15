@@ -24,6 +24,8 @@ To implement the **DOM** functionalities [React DOM](https://reactjs.org/docs/re
 <br>
 
 ![](/src/images/md_image1.png)
+![](/src/images/md_image2.png)
+![](/src/images/md_image3.png)
 
 <br><br>
 Read more about **[React](https://reactjs.org/)**
